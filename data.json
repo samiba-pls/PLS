@@ -453,5 +453,18 @@
   "status": "Veröffentlicht",
   "beschreibung": "This tool uses machine learning algorithms to learn the relationship between a care situation and the next care steps and helps family caregivers balance their professional and private lives so that they are able to continue caring for their family members without sacrificing their own jobs and personal ambitions.",
   "link": "https://pubmed.ncbi.nlm.nih.gov/36673969/"
+ },
+ {
+  "id": "38",
+  "name": "CareMates",
+  "traeger": "",
+  "ort": "Deutschland",
+  "setting": "Pflegeheim",
+  "prozess": "Organisieren",
+  "ki": "Prognose + Optimierung",
+  "kategorie": "Unternehmen",
+  "status": "Im Verkauf / im Einsatz",
+  "beschreibung": "Die KI-unterstützte CRM-Software für Anfragen und Aufnahmen in der Sozialwirtschaft. Bis zu 80% weniger Aufnahmezeit - für alle, die lieber betreuen als dokumentieren.",
+  "link": "https://caremates.de/#uber-uns"
  }
 ]
