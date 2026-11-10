@@ -466,5 +466,18 @@
   "status": "Im Verkauf / im Einsatz",
   "beschreibung": "Die KI-unterstützte CRM-Software für Anfragen und Aufnahmen in der Sozialwirtschaft. Bis zu 80% weniger Aufnahmezeit - für alle, die lieber betreuen als dokumentieren.",
   "link": "https://caremates.de/#uber-uns"
+ },
+ {
+  "id": "39",
+  "name": "DigiCare",
+  "traeger": "Universität Essen",
+  "ort": "Deutschland",
+  "setting": "Klinik",
+  "prozess": "Kommunizieren",
+  "ki": "Sprache + Text",
+  "kategorie": "Forschungsprojekt",
+  "status": "Laufend",
+  "beschreibung": "Digitale, sektorübergreifende, interprofessionelle Versorgungsstruktur zur Unterstützung des Selbst- und Symptommanagements von onkologisch-erkrankten Patient:innen gemäß aktueller S3-Leitlinien via App. Funktionen wie Bereitstellung von Fragebögen und personalisierten Gesundheitsmedien, Chatbot zum Selbstmanagement und administrativen Fragen, Messenger zwischen Advanced Practice Nurse und Patient:innen, Terminbuchung (insb. Onlinesprechstunde), usw.",
+  "link": "https://www.uni-due.de/interaktivesysteme/digicare"
  }
 ]
