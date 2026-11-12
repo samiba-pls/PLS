@@ -8,6 +8,9 @@ on:
       - 'index.html'
       - 'tools/excel_to_json.py'
       - '.github/workflows/publish.yml'
+      - 'Pflegedatenbank.html'
+      - 'Datenbasispyramide.html'
+      - 'Datenwürfel.html'
   workflow_dispatch:
 
 permissions:
@@ -51,7 +54,7 @@ jobs:
       - name: Website vorbereiten
         run: |
           mkdir -p _site
-          cp index.html data.json _site/
+          cp *.html data.json _site/
 
       - uses: actions/upload-pages-artifact@v3
         with:
